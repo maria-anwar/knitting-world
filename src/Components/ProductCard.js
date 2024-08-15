@@ -117,7 +117,7 @@ function ProductCard({ id, imgBackSrc, imgFrontSrc, title, price, actualPrice, r
             <div className="mt-1">
               <span className="product-price">
                 {/* <del className="text-muted pr-1">${actualPrice}</del> */}
-                ${price}
+                {price}
               </span>
               {/* <div className="star-rating">
                 {renderRating()}
