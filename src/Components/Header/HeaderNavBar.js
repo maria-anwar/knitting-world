@@ -259,7 +259,7 @@ export default function HeaderNavBar() {
                       </li>
                       <li className="nav-item">
                         <Link to="/football-scarves" className="nav-link">
-                          Football Scarves
+                          Custom Scarves
                         </Link>
                       </li>
                       <li className="nav-item">
