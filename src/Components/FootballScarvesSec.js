@@ -21,10 +21,10 @@ const FootballScarvesSec = () => {
           {/* Product Development */}
           <div className="ml-3">
             <h6 className="text-primary mb-1">— Specifications</h6>
-            <h2 className="mb-0">Custom Football Scarves</h2>
+            <h2 className="mb-0">Custom Scarves</h2>
           <ul className="ml-2 specs_list" style={{color:'#8090b5', lineHeight:'1.7'}}>
             <li className="">
-              Football scarf with your fully customized design knitted in
+              Scarves with your fully customized design knitted in
             </li>
             <li className="">Single pieces, NO minimum order quantity (MOQ)</li>
             <li className="specs_list_item">

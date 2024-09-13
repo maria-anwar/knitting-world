@@ -28,7 +28,7 @@ function FootballScarves() {
   };
   const firstBreadcrumb = { label: "Pages" };
   const secondBreadcrumb = {
-    label: "Football Scarves",
+    label: "Custom Scarves",
     active: true,
   };
   const options = {
@@ -64,7 +64,7 @@ function FootballScarves() {
   return (
     <div className="page-wrapper">
       <PageHeading
-        title="Custom Football Scarves"
+        title="Custom Scarves"
         firstBreadcrumb={firstBreadcrumb}
         secondBreadcrumb={secondBreadcrumb}
       />
@@ -102,7 +102,7 @@ function FootballScarves() {
                     }}
                   >
                     <li>
-                      Football scarf with your fully customized design knitted
+                      Scarf with your fully customized design knitted
                       in
                     </li>
                     <li>Single pieces, NO minimum order quantity (MOQ)</li>

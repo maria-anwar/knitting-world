@@ -36,7 +36,7 @@ const KnitwearSec = () => {
           </div>
           <div className="mt-3" style={{ textAlign: "center" }}>
             <p>
-              Football scarves knit fabric panels with custom design knitted in
+              Scarves knit fabric panels with custom design knitted in
               stitch by stitch Made in UK, no minimums.No minimum order
               quantity, Production from 1 piece, discounts from 2 pcs with same
               design. The perfect offer for sports teams, merchandising, the

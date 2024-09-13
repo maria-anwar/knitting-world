@@ -25,10 +25,10 @@ const AboutSection = () => {
           </div>
           <p className="mb-4 animated3">
             Welcome to <span className="text-primary">Knitting World</span>, the wholesale destination for
-            premium knitted scarves and gloves. With a dedication to excellence
+            premium knitted scarves. With a dedication to excellence
             and a passion for craftsmanship, we craft timeless accessories that
-            blend warmth, comfort, and style. From cozy scarves to durable
-            gloves, our extensive range caters to retailers and distributors
+            blend warmth, comfort, and style. For cozy and durable scarves, 
+            our extensive range caters to retailers and distributors
             worldwide. Experience the difference of quality knitwear designed to
             inspire at KnittinG World, where every stitch tells a story of
             enduring style and unmatched craftsmanship.

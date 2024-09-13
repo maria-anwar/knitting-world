@@ -30,13 +30,8 @@ const CustomScarvesContent = () => {
           </p>
         </Col>
         <Col lg="6" md="12" className="mt-5 mt-lg-0">
-          {/* <h6 className="font-w-6 text-primary animated3 mb-2">About</h6> */}
-          {/* <h1 className="mb-3 animated3 font-w-5">
-            New Arrival <span className="font-w-8">Modern Chair</span>
-          </h1> */}
-          {/* Product Development */}
+        
           <div>
-            {/* <h6 className="text-primary mb-1">— Product Development</h6> */}
             <h3 className="mb-0">Pixel to knitwear since 2013.</h3>
           </div>
           <p className="mt-1 mb-3 animated3" style={{fontSize:'14px'}}>
@@ -44,7 +39,7 @@ const CustomScarvesContent = () => {
             in creating the best bespoke scarves for soccer, football, and
             college teams. With our online design tool, you can easily customize
             your own scarves with no minimum order requirement. Our scarves are
-            proudly Made in Germany, ensuring high quality and durability, and
+            proudly Made in UK, ensuring high quality and durability, and
             we offer short lead times to get your custom scarves to you quickly.{" "}
           </p>
           <p className="animated3" style={{fontSize:'14px'}}>

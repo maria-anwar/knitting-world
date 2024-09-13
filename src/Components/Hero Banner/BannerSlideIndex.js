@@ -16,7 +16,7 @@ const Banner = () => {
   const slides = [
     {
       bgImg: "assets/images/product-ad/01.jpg",
-      title: "Football Scarf",
+      title: "Custom Scarf",
       specs: ["No Minimums", "Custom Design", "Made in UK"],
       subtitle: "Welcome Knitting World",
       button: "Shop Now",
@@ -29,7 +29,7 @@ const Banner = () => {
     },
 
     // {
-    //   bgImg: "assets/images/bg/knitting-world-banner3.jpg",
+    //   bgImg: "assets/images/bg/footbal-bar-scarf.jpg",
     //   specs: ["No Minimums", "Custom Design", "Made in UK"],
     //   title: "Football Scarf",
     //   subtitle: "Welcome Knitting World",
@@ -37,8 +37,8 @@ const Banner = () => {
     // },
 
     // {
-    //   bgImg: "assets/images/bg/banner-4.jpg",
-    //   title: "Football Scarves Collection",
+    //   bgImg: "assets/images/bg/football-team.jpg",
+    //   title: "Latest Scarves Collection",
     //   subtitle: "2024 Latest Style",
     //   button: "View Collection",
     // },

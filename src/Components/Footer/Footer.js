@@ -14,7 +14,7 @@ export default function Footer() {
               </Link>
               <p className="my-3 text-muted">
                 Creating warmth stitch by stitch, our business crafts cozy
-                scarves and gloves, knitting comfort into every thread for your
+                scarves, knitting comfort into every thread for your
                 winter embrace.
               </p>
               <ul className="list-inline mb-0">
